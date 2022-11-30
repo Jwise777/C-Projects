@@ -29,9 +29,9 @@ namespace BooleanLogic
 
             Console.WriteLine("Qualified?");
             Console.ReadLine();
-            if (driveAge >= 15 && false dui && < 3 tickets);
+            if (driveAge > 15 && false == dui && tickets < 3);
             {
-                Console.WriteLine(canInsure);
+                Console.WriteLine("You are approved for coverage!");
             }
             Console.ReadLine();
         }
