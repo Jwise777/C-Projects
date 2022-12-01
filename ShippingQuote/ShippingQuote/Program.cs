@@ -46,7 +46,7 @@ namespace ShippingQuote
             {
                 Console.WriteLine("Your package fits under our size requirements!");
                      int totalSize = packWidth * packHeight * packLength * packWeight;
-                     int totalCost = totalSize / 100
+                     int totalCost = totalSize / 100;
                      Console.WriteLine("The total cost for your shipping package is:" + totalCost);
                      Console.ReadLine();
             }
