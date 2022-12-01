@@ -21,22 +21,22 @@ namespace ShippingQuote
             else
             {
                 Console.WriteLine("Your package fits under our weight requirements!");
-            }
+                Console.ReadLine();
 
-            Console.WriteLine("Please enter the package width:");
-            string packageWidth = Console.ReadLine();
-            int packWidth = Convert.ToInt32(packageWidth);
-            Console.ReadLine();
+                Console.WriteLine("Please enter the package width:");
+                string packageWidth = Console.ReadLine();
+                int packWidth = Convert.ToInt32(packageWidth);
+                Console.ReadLine();
 
-            Console.WriteLine("Please enter the package height:");
-            string packageHeight = Console.ReadLine();
-            int packHeight = Convert.ToInt32(packageHeight);
-            Console.ReadLine();
+                Console.WriteLine("Please enter the package height:");
+                string packageHeight = Console.ReadLine();
+                int packHeight = Convert.ToInt32(packageHeight);
+                Console.ReadLine();
 
-            Console.WriteLine("Please enter the package length:");
-            string packageLength = Console.ReadLine();
-            int packLength = Convert.ToInt32(packageLength);
-            Console.ReadLine();
+                Console.WriteLine("Please enter the package length:");
+                string packageLength = Console.ReadLine();
+                int packLength = Convert.ToInt32(packageLength);
+                Console.ReadLine();
 
             if (packWidth + packHeight + packLength > 50)
             {
@@ -45,13 +45,16 @@ namespace ShippingQuote
             else
             {
                 Console.WriteLine("Your package fits under our size requirements!");
+                     int totalSize = packWidth * packHeight * packLength * packWeight;
+                     int totalCost = totalSize / 100
+                     Console.WriteLine("The total cost for your shipping package is:" + totalCost);
+                     Console.ReadLine();
             }
 
-            int totalSize = packWidth * packHeight * packLength * packWeight;
-            int totalCost = totalSize / 100
-            Console.WriteLine("The total cost for your shipping package is:" + totalCost);
-            Console.ReadLine();
 
+            }
+
+            
         }
     }
 }
