@@ -39,6 +39,14 @@ namespace Dowhile
                 }
             }
             while (!isGuessed);
+
+            int x = 0;
+            do
+            {
+                Console.WriteLine(x);
+                x++;
+            }
+            while (i < 5);
         }
     }
 }
