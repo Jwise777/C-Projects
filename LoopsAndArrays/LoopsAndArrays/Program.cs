@@ -17,14 +17,14 @@ namespace LoopsAndArrays
 
             Console.WriteLine("Select a random number 0-5");
             string arrayChoice = Console.ReadLine();
-            Console.WriteLine(arrayChoice);
+            Console.WriteLine(numArray[arrayChoice]);
             Console.ReadLine();
 
-            string[] stringArray1 = new int[] { "blue", "Red", "green", "yellow", "orange" };
+            string[] stringArray1 = new string[] { "blue", "Red", "green", "yellow", "orange" };
 
             Console.WriteLine("Select a random Color!");
-            string colorChoice = Console.ReadLine();
-            Console.WriteLine(colorChoice);
+            int colorChoice = Convert.ToInt32(stringArray1);
+            Console.WriteLine(stringArray1[colorChoice]);
             Console.ReadLine();
 
 
