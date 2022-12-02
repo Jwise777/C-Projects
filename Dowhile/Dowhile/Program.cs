@@ -35,13 +35,15 @@ namespace Dowhile
                         break;
                     default:
                         Console.WriteLine("You are always wrong");
+                        Console.WriteLine("Have a great day!");
+                        Console.ReadLine();
                         break;
                 }
             }
             while (!isGuessed);
 
             int x = 0;
-            while (x < 5) ;
+            while (x < 5);
             {
                 Console.WriteLine(x);
                 x++;

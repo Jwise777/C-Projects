@@ -1,0 +1,14 @@
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.exe
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.deps.json
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.runtimeconfig.json
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.runtimeconfig.dev.json
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.dll
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\bin\Debug\netcoreapp3.1\IterationAssignment.pdb
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.csproj.AssemblyReference.cache
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.AssemblyInfoInputs.cache
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.AssemblyInfo.cs
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.dll
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.pdb
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\IterationAssignment\IterationAssignment\obj\Debug\netcoreapp3.1\IterationAssignment.genruntimeconfig.cache
