@@ -41,12 +41,11 @@ namespace Dowhile
             while (!isGuessed);
 
             int x = 0;
-            do
+            while (x < 5) ;
             {
                 Console.WriteLine(x);
                 x++;
             }
-            while (i < 5);
         }
     }
 }
