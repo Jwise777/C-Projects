@@ -43,7 +43,7 @@ namespace Dowhile
             while (!isGuessed);
 
             int x = 0;
-            while (x < 5);
+            while (x < 5)
             {
                 Console.WriteLine(x);
                 x++;
