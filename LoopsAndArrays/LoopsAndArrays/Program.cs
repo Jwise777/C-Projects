@@ -16,7 +16,8 @@ namespace LoopsAndArrays
             numArray[5] = 55;
 
             Console.WriteLine("Select a random number 0-5");
-            string arrayChoice = Console.ReadLine();
+            int arrayChoice = Convert.ToInt32(numArray);
+            Console.ReadLine();
             Console.WriteLine(numArray[arrayChoice]);
             Console.ReadLine();
 
