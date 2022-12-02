@@ -15,12 +15,16 @@ namespace LoopsAndArrays
             numArray[3] = 44;
             numArray[5] = 55;
 
-            Console.WriteLine(numArray[3]);
+            Console.WriteLine("Select a random number 0-5");
+            string arrayChoice = Console.ReadLine();
+            Console.WriteLine(arrayChoice);
             Console.ReadLine();
 
-            string[] stringArray1 = new int[] { "blue, Red, green, yellow, orange" };
+            string[] stringArray1 = new int[] { "blue", "Red", "green", "yellow", "orange" };
 
-            Console.WriteLine(stringArray1);
+            Console.WriteLine("Select a random Color!");
+            string colorChoice = Console.ReadLine();
+            Console.WriteLine(colorChoice);
             Console.ReadLine();
 
 
