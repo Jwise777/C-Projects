@@ -37,10 +37,8 @@ namespace Dowhile
                         Console.WriteLine("You are always wrong");
                         break;
                 }
-            while (!isGuessed);
-            {
-             
             }
+            while (!isGuessed);
         }
     }
 }
