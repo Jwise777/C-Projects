@@ -23,9 +23,9 @@ namespace LoopsAndArrays
 
             string[] stringArray1 = new string[] { "blue", "Red", "green", "yellow", "orange" };
 
-            Console.WriteLine("Select a random Color!");
-            int colorChoice = Convert.ToInt32(stringArray1);
-            Console.WriteLine(stringArray1[colorChoice]);
+            Console.WriteLine("Select a number 0-4");
+            int indexChoice = Console.WriteLine();
+            Console.WriteLine(stringArray1[indexChoice]);
             Console.ReadLine();
 
 
