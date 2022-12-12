@@ -8,14 +8,14 @@ namespace LoopsAndArrays
         static void Main()
         {
 
-            int[] numArray = new int[5];
+            int[] numArray = new int[4];
             numArray[0] = 11;
             numArray[1] = 22;
             numArray[2] = 33;
             numArray[3] = 44;
-            numArray[5] = 55;
+            numArray[4] = 55;
 
-            Console.WriteLine("Select a random number 0-5");
+            Console.WriteLine("Select a random number 0-4");
             int arrayChoice = Convert.ToInt32(Console.ReadLine());
             Console.ReadLine();
             Console.WriteLine(numArray[arrayChoice]);
@@ -37,7 +37,7 @@ namespace LoopsAndArrays
 
             Console.WriteLine("Select a number 1-3");
             int intListChoice = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(stringArray1[intListChoice]);
+            Console.WriteLine(intList[intListChoice]);
             Console.ReadLine();
         }
     }
