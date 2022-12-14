@@ -11,9 +11,9 @@ namespace MainMethodApp279
         static void Main(string[] args)
         {
             Math math = new Math();
-            math.mathMethod(10);
-            math.mathMethod(5.5m);
-            math.mathMethod("10");
+            Console.WriteLine(math.mathMethod(10));
+            Console.WriteLine(math.mathMethod(5.5m));
+            Console.WriteLine(math.mathMethod("10"));
             Console.ReadLine();
         }
     }
