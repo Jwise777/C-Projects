@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\MainMethodApp279\MainMethodApp279\bin\Debug\MainMethodApp279.exe.config
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\MainMethodApp279\MainMethodApp279\bin\Debug\MainMethodApp279.exe
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\MainMethodApp279\MainMethodApp279\bin\Debug\MainMethodApp279.pdb
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\MainMethodApp279\MainMethodApp279\obj\Debug\MainMethodApp279.csproj.AssemblyReference.cache
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\MainMethodApp279\MainMethodApp279\obj\Debug\MainMethodApp279.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\MainMethodApp279\MainMethodApp279\obj\Debug\MainMethodApp279.exe
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\MainMethodApp279\MainMethodApp279\obj\Debug\MainMethodApp279.pdb
