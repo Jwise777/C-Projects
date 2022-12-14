@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.csproj.AssemblyReference.cache
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\OptionalMethodAssignment\OptionalMethodAssignment\bin\Debug\OptionalMethodAssignment.exe.config
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\OptionalMethodAssignment\OptionalMethodAssignment\bin\Debug\OptionalMethodAssignment.exe
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\OptionalMethodAssignment\OptionalMethodAssignment\bin\Debug\OptionalMethodAssignment.pdb
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.exe
+C:\Users\james\OneDrive\Documents\GitHub\TechAcademyC-SharpProjects\OptionalMethodAssignment\OptionalMethodAssignment\obj\Debug\OptionalMethodAssignment.pdb
